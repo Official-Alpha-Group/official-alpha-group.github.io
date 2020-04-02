@@ -2458,17 +2458,15 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .home-about-area {
-  background: #f9f9ff;
+  background: rgb(247, 242, 242);
 }
 
 .home-about-area .home-about-left h1 {
   margin-bottom: 30px;
 }
 
-.home-about-area .home-about-left h6 {
+.home-about-area .home-about-left h5 {
   color: #fab700;
-  font-weight: 300;
-  margin-bottom: 10px;
 }
 
 .home-about-area .home-about-left .sub {
