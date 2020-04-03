@@ -1944,11 +1944,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .main-menu {
-  padding-top: 20px;
+  padding-top: 5px;
 }
 
 #header {
-  padding: 0px 0px 20px 0px;
+  padding: 0px 0px 5px 0px;
   position: fixed;
   left: 0;
   top: 0;
@@ -2467,6 +2467,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .home-about-area .home-about-left h5 {
   color: #fab700;
+  font-weight: 300;
+  margin-bottom: 10px;
 }
 
 .home-about-area .home-about-left .sub {
@@ -2559,7 +2561,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 .home-about-area .home-about-right .form-select .nice-select .list .option {
   padding-left: 20px;
 }
-
+.single-service p{
+  color:black;
+}
 .single-service h4 {
   padding: 20px 0;
   -webkit-transition: all 0.3s ease 0s;
@@ -3530,6 +3534,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #f9f9ff;
 }
 
+.long{
+  width: 100%;
+}
+.side-service{
+  height:50%;
+  width: 50%;
+}
 /*
 ################
                End Blog Details  Page style
