@@ -2619,7 +2619,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   transition: all 0.3s ease 0s;
 }
 
-.single-service:hover .thumb img {
+ .thumb img {
   transform: scale(1.1) rotate(-2deg);
 }
 
