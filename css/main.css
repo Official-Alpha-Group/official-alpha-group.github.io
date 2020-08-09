@@ -2622,7 +2622,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
  .thumb img {
-  transform: scale(1.1) rotate(-2deg);
+  transform: scale(1) ;
 }
 
 @media (max-width: 960px) {
